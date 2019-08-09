@@ -1,0 +1,27 @@
+.insects{
+    padding: 1rem;
+}
+
+.flex{
+    display: flex;
+}
+
+.horizontal.flex{
+    flex-direction: row;
+}
+
+.vertical.flex{
+    flex-direction: column;
+}
+
+.autofill{
+    flex: 1 0 auto;
+}
+
+.fullheight{
+    height: 100%;
+}
+
+[v-cloak] {
+    display: none;
+}
